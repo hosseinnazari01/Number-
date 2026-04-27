@@ -1,3 +1,1 @@
-Create a Python Project Number
-We Wrote a program in Python that receives a number from the input and recognizes that the number is even.
-or if the person is even to print,he is even,otherwise he is an individual.
+We wrote a program in Python that takes an integer from the user and the user enters it and the system checks whether this number is even or odd. If the number is divided by 2 and the remainder is zero, that is, it is divisible, then print it is even, otherwise print it is odd.
