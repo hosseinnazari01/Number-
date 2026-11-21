@@ -1,4 +1,4 @@
-Determining whether a number is even or odd
+#Determining whether a number is even or odd
 # تشخیص عدد زوج و فرد با زبان پایتون
 
 این پروژه یک برنامه ساده با زبان برنامه‌نویسی Python است که یک عدد را از کاربر دریافت کرده و مشخص می‌کند عدد واردشده زوج است یا فرد.
