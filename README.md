@@ -1,1 +1,29 @@
-We wrote a program in Python that takes an integer from the user and the user enters it and the system checks whether this number is even or odd. If the number is divided by 2 and the remainder is zero, that is, it is divisible, then print it is even, otherwise print it is odd.
+Determining whether a number is even or odd
+# تشخیص عدد زوج و فرد با زبان پایتون
+
+این پروژه یک برنامه ساده با زبان برنامه‌نویسی Python است که یک عدد را از کاربر دریافت کرده و مشخص می‌کند عدد واردشده زوج است یا فرد.
+
+## نحوه عملکرد
+- دریافت یک عدد از کاربر
+- بررسی باقی‌مانده تقسیم عدد بر ۲
+- نمایش `Even` در صورت زوج بودن عدد
+- نمایش `Odd` در صورت فرد بودن عدد
+
+## مفاهیم استفاده‌شده
+- `input()` برای دریافت ورودی
+- `int()` برای تبدیل ورودی به عدد صحیح
+- دستورهای شرطی `if` و `else`
+- عملگر `%` برای محاسبه باقی‌مانده تقسیم
+- دستور `print()` برای نمایش نتیجه
+
+## نمونه اجرا
+
+```text
+Enter a Number: 8
+Even
+```
+
+## هدف پروژه
+تمرین دستورات شرطی و آشنایی با عملگر باقی‌مانده تقسیم در زبان Python.
+
+**Language:** Python
